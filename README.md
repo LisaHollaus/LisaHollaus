@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
-Hi I'm Lisa, a 4th-semester informatics student who used to whip up sweets as a confectioner but now I code to satisfy my cravings. I travel a lot, code a lot, and, most importantly, I need coffee daily to prevent both myself and my code from crumbling. ☕💻✈️🍰
+I'm Lisa, a 4th-semester informatics student who used to whip up sweets as a confectioner but now I code to satisfy my cravings. I travel a lot, code a lot, and, most importantly, I need coffee daily to prevent both myself and my code from crumbling. ☕💻✈️🍰
 
 
 ## 🌐 Socials:
