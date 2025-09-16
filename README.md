@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 I'm Lisa, a 5th-semester informatics student who used to whip up sweets as a confectioner but now I code to satisfy my cravings. I travel a lot, code a lot, and, most importantly, I need coffee daily to prevent both myself and my code from crumbling. ☕💻✈️🍰
-... and yes that was the best sentance ChatGPT could come up with, that doesn't sound too boring and still describes myself. 
+
+... and yes that was the best sentence ChatGPT could come up with, that doesn't sound too boring and still describes myself. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lisa-maria-hollaus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lisa.hollaus@live.at) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/no.plan.traveller) [![Upwork](https://img.shields.io/badge/Upwork-%2314C800.svg?logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f41de3c5d1e4ff81?mp_source=share)
